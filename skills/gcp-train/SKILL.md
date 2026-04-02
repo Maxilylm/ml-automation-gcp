@@ -2,7 +2,7 @@
 name: gcp-train
 description: "Train ML models on Vertex AI with AutoML, custom training jobs, or hyperparameter tuning via Vizier."
 aliases: [vertex train, automl train, gcp training, vertex ai training, hpt]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

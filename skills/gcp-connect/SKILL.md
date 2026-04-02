@@ -2,7 +2,7 @@
 name: gcp-connect
 description: "Configure GCP credentials, project settings, and validate API access for Google Cloud ML workflows."
 aliases: [gcp auth, gcp credentials, gcp project, gcp setup, google cloud connect]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

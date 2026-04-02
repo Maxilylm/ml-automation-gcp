@@ -2,7 +2,7 @@
 name: gcp-data
 description: "Manage Cloud Storage data for ML workflows: upload, download, catalog datasets, and create buckets."
 aliases: [gcs data, cloud storage, gcs upload, gcs download, gcs catalog]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

@@ -4,7 +4,7 @@ description: "Review GCP configurations for cost optimization, IAM security, and
 model: sonnet
 color: "#FBBC04"
 tools: [Read, Write, Bash(*), Glob, Grep]
-extends: ml-automation
+extends: spark
 routing_keywords: [gcp review, gcp cost, gcp security, gcp iam, gcp best practices, vertex cost]
 hooks_into:
   - after-evaluation

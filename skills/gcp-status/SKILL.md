@@ -2,7 +2,7 @@
 name: gcp-status
 description: "Check GCP ML resource status: Vertex AI endpoints, training jobs, BigQuery datasets, storage, and cost summary."
 aliases: [gcp resources, vertex status, gcp cost, gcp check, gcp dashboard]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

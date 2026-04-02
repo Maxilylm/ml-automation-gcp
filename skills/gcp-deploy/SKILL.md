@@ -2,7 +2,7 @@
 name: gcp-deploy
 description: "Deploy ML models to Vertex AI endpoints, Cloud Run services, or Cloud Functions with traffic splitting and monitoring."
 aliases: [vertex deploy, cloud run deploy, gcp serve, gcp endpoint, vertex endpoint]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

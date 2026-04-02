@@ -1,7 +1,7 @@
 """
-GCP utilities for the ml-automation-gcp extension plugin.
+GCP utilities for the spark-gcp extension plugin.
 
-Requires ml_utils.py from the ml-automation core plugin to be present
+Requires ml_utils.py from the spark core plugin to be present
 in the same directory (copied via Stage 0 of GCP commands).
 """
 

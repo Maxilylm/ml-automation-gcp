@@ -4,7 +4,7 @@ description: "BigQuery development, Cloud Storage management, Dataflow pipelines
 model: sonnet
 color: "#34A853"
 tools: [Read, Write, Bash(*), Glob, Grep]
-extends: ml-automation
+extends: spark
 routing_keywords: [bigquery, bq, cloud storage, gcs, dataflow, bigquery ml, bqml, google data]
 hooks_into:
   - after-init

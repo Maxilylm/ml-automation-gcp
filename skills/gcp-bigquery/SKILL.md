@@ -2,7 +2,7 @@
 name: gcp-bigquery
 description: "Generate and execute BigQuery SQL and BigQuery ML queries from natural language descriptions."
 aliases: [bq query, bigquery sql, bqml, bigquery ml, bq ml]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

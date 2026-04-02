@@ -4,7 +4,7 @@ description: "Vertex AI training, AutoML, custom training jobs, model registry, 
 model: sonnet
 color: "#4285F4"
 tools: [Read, Write, Bash(*), Glob, Grep]
-extends: ml-automation
+extends: spark
 routing_keywords: [vertex ai, gcp ml, vertex training, automl, vertex pipeline, vertex model, google cloud ml]
 hooks_into:
   - before-deploy

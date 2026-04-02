@@ -4,7 +4,7 @@ description: "Deploy ML models to Vertex AI endpoints, Cloud Run, and Cloud Func
 model: sonnet
 color: "#EA4335"
 tools: [Read, Write, Bash(*), Glob, Grep]
-extends: ml-automation
+extends: spark
 routing_keywords: [gcp deploy, vertex endpoint, cloud run, cloud functions, gcp inference, gcp serving]
 ---
 

@@ -2,7 +2,7 @@
 name: gcp-coldstart
 description: "Full GCP ML workflow from BigQuery data through Vertex AI training to endpoint deployment with evaluation."
 aliases: [gcp workflow, gcp end to end, vertex workflow, gcp ml pipeline]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

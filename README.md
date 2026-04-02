@@ -1,4 +1,4 @@
-# ml-automation-gcp
+# spark-gcp
 
 Google Cloud ML platform extension for [ml-automation](https://github.com/Maxilylm/ml-automation-core).
 
@@ -12,7 +12,7 @@ Google Cloud ML platform extension for [ml-automation](https://github.com/Maxily
 ## Installation
 
 ```bash
-claude plugin add /path/to/ml-automation-gcp
+claude plugin add /path/to/spark-gcp
 ```
 
 ## What's Included
