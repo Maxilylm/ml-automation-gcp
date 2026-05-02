@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "Google Cloud ML platform extension for spark. Vertex AI training, BigQuery ML, Cloud Storage, Cloud Run deployment, and GCP ML infrastructure.",
   "author": { "name": "Maximo Lorenzo y Losada" },
-  "repository": "https://github.com/Maxilylm/ml-automation-gcp",
+  "repository": "https://github.com/BLEND360/ml-automation-gcp",
   "license": "MIT",
   "keywords": ["gcp", "vertex-ai", "bigquery", "bigquery-ml", "cloud-storage", "cloud-run", "google-cloud", "spark-extension"],
   "dependencies": ["spark-core"]
