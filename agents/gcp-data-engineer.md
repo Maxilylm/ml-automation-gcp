@@ -6,8 +6,6 @@ color: "#34A853"
 tools: [Read, Write, Bash(*), Glob, Grep]
 extends: spark
 routing_keywords: [bigquery, bq, cloud storage, gcs, dataflow, bigquery ml, bqml, google data]
-hooks_into:
-  - after-init
 ---
 
 # GCP Data Engineer

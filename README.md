@@ -19,12 +19,12 @@ claude plugin add /path/to/spark-gcp
 
 ### Agents
 
-| Agent | Purpose | Hooks Into |
-|---|---|---|
-| `gcp-ml-engineer` | Vertex AI training, AutoML, custom jobs, model registry, pipelines | `before-deploy` |
-| `gcp-data-engineer` | BigQuery, Cloud Storage, Dataflow, BigQuery ML | `after-init` |
-| `gcp-deployer` | Deploy to Vertex AI endpoints, Cloud Run, Cloud Functions | *(direct invocation)* |
-| `gcp-reviewer` | GCP cost optimization, IAM security, best practices review | `after-evaluation` |
+| Agent | Purpose |
+|---|---|
+| `gcp-ml-engineer` | Vertex AI training, AutoML, custom jobs, model registry, pipelines |
+| `gcp-data-engineer` | BigQuery, Cloud Storage, Dataflow, BigQuery ML |
+| `gcp-deployer` | Deploy to Vertex AI endpoints, Cloud Run, Cloud Functions |
+| `gcp-reviewer` | GCP cost optimization, IAM security, best practices review |
 
 ### Commands
 
