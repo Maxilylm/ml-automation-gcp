@@ -6,8 +6,6 @@ color: "#FBBC04"
 tools: [Read, Write, Bash(*), Glob, Grep]
 extends: spark
 routing_keywords: [gcp review, gcp cost, gcp security, gcp iam, gcp best practices, vertex cost]
-hooks_into:
-  - after-evaluation
 ---
 
 # GCP Reviewer

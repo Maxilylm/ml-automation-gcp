@@ -6,8 +6,6 @@ color: "#4285F4"
 tools: [Read, Write, Bash(*), Glob, Grep]
 extends: spark
 routing_keywords: [vertex ai, gcp ml, vertex training, automl, vertex pipeline, vertex model, google cloud ml]
-hooks_into:
-  - before-deploy
 ---
 
 # GCP ML Engineer
