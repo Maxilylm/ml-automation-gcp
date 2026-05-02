@@ -14,13 +14,13 @@ def mock_llm_response() -> dict[str, Any]:
     Typical structure:
         {
             "content": "...",
-            "model": "claude-3-5-sonnet",
+            "model": "claude-opus-4-7",
             "stop_reason": "end_turn"
         }
     """
     return {
         "content": "Mock response from Claude for testing",
-        "model": "claude-3-5-sonnet",
+        "model": "claude-opus-4-7",
         "stop_reason": "end_turn",
     }
 
